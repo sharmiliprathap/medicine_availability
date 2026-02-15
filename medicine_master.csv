@@ -1,0 +1,41 @@
+medicine_name,strength,category
+Metformin,500mg,Diabetes
+Metformin,800mg,Diabetes
+Glimepiride,1mg,Diabetes
+Glimepiride,2mg,Diabetes
+Sitagliptin,100mg,Diabetes
+Vildagliptin,50mg,Diabetes
+Empagliflozin,10mg,Diabetes
+Dapaglifozine,10mg,Diabetes
+Acarbose,50mg,Diabetes
+Pioglitazone,15mg,Diabetes
+Amlodipine,5mg,Cardiac
+Losartan,50mg,Cardiac
+Telmisartan,40mg,Cardiac
+Atenolol,50mg,Cardiac
+Metoprolol,50mg,Cardiac
+Atorvastatin,10mg,Cardiac
+Atorvastatin,20mg,Cardiac
+Aspirin,75mg,Cardiac
+Clopidogrel,75mg,Cardiac
+Enalapril,5mg,Cardiac
+Amoxicillin,500mg,Antibiotics
+Azithromycin,500mg,Antibiotics
+Ciprofloxacin,500mg,Antibiotics
+Doxycycline,100mg,Antibiotics
+Cefixime,200mg,Antibiotics
+Cefuroxime,500mg,Antibiotics
+Metronidazole,400mg,Antibiotics
+Levofloxacin,500mg,Antibiotics
+Ofloxacin,200mg,Antibiotics
+Amoxiclav,625mg,Antibiotics
+Paracetamol,500mg,Pain relief
+Ibuprofen,400mg,Pain relief
+Diclofenac,50mg,Pain relief
+Aceclofenac,100mg,Pain relief
+Naproxen,500mg,Pain relief
+Tramadol,50mg,Pain relief
+Etoricoxib,60mg,Pain relief
+Etoricoxib,90mg,Pain relief
+Ketorolac,10mg,Pain relief
+Mefenamic,acid,Pain relief
