@@ -20,8 +20,8 @@ This dataset was constructed by scraping Tata 1mg listings. It contains 1,893 cl
 - **Visual Studio Code:** Main development environment.
 
 ## Power BI Dashboard
-![](dashboard_overview.gif)
-[:bar_chart: View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmI4OTIwMTMtOThhYi00MGRlLTlmNTktZjQ4NTEwODcwN2M3IiwidCI6ImQyMDI4YzQzLWRmNDQtNGVmNi05Yjg5LTY3YTMzOWM1M2QyMyJ9&pageName=fff278654c1dba434367)
+![](dashboard.gif)
+[:bar_chart: View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTViYjA0ZDYtZTAxOS00MzMzLWI4MjMtYzY1MDJjNDFiMWVlIiwidCI6ImQyMDI4YzQzLWRmNDQtNGVmNi05Yjg5LTY3YTMzOWM1M2QyMyJ9)
 
 ## The Analysis
 
