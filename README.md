@@ -31,7 +31,7 @@ To measure market price inefficiency, I grouped listings by molecule and compare
 However, this outlier was inflated by dosage form differences (IV infusion vs tablet). To correct for this, I extracted dosage form from brand names and recalculated dispersion within the same form (molecule + form). The form‑controlled results provide a true like‑for‑like comparison and prevent infusions from distorting the tablet market story. 
 This time, the analysis showed the true form-controlled price dispersion of about 8,000%+, which is still extremely high. This confirms that even after removing formulation mismatch, substantial brand-level price variation remains.
 
-### 2. Price vs Availability (Premium Protection Hypothesis)
+### 2. Price vs Availability 
 I tested whether higher prices actually deliver better reliability by assigning price tiers within each molecule (Budget, Mid, Premium), so “premium” is defined relative to each molecule’s own price distribution.
 
 Availability increased from 56.7% (Budget) to 64.8% (Mid) to 71.9% (Premium). The premium-to-budget gap is about 15.2 percentage points, which is directionally positive but still modest relative to the very large price gaps observed in dispersion analysis.
